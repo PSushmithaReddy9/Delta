@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\project\\LoginDesign1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cup.png",
+        "source": "E:\\project\\LoginDesign1\\app\\src\\main\\res\\drawable-hdpi\\cup.png"
+    },
+    {
+        "merged": "E:\\project\\LoginDesign1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login.png",
+        "source": "E:\\project\\LoginDesign1\\app\\src\\main\\res\\drawable-hdpi\\login.png"
+    },
+    {
+        "merged": "E:\\project\\LoginDesign1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image.png",
+        "source": "E:\\project\\LoginDesign1\\app\\src\\main\\res\\drawable-hdpi\\image.png"
+    },
+    {
+        "merged": "E:\\project\\LoginDesign1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\select.png",
+        "source": "E:\\project\\LoginDesign1\\app\\src\\main\\res\\drawable-hdpi\\select.png"
+    },
+    {
+        "merged": "E:\\project\\LoginDesign1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\linkedin.png",
+        "source": "E:\\project\\LoginDesign1\\app\\src\\main\\res\\drawable-hdpi\\linkedin.png"
+    },
+    {
+        "merged": "E:\\project\\LoginDesign1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_ic_googleplayservices.png",
+        "source": "E:\\project\\LoginDesign1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "E:\\project\\LoginDesign1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon1.png",
+        "source": "E:\\project\\LoginDesign1\\app\\src\\main\\res\\drawable-hdpi\\icon1.png"
+    },
+    {
+        "merged": "E:\\project\\LoginDesign1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "E:\\project\\LoginDesign1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-hdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "E:\\project\\LoginDesign1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\project\\LoginDesign1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\project\\LoginDesign1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_icon.png",
+        "source": "E:\\project\\LoginDesign1\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\project\\LoginDesign1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tick.png",
+        "source": "E:\\project\\LoginDesign1\\app\\src\\main\\res\\drawable-hdpi\\tick.png"
+    },
+    {
+        "merged": "E:\\project\\LoginDesign1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plan.png",
+        "source": "E:\\project\\LoginDesign1\\app\\src\\main\\res\\drawable-hdpi\\plan.png"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\project\\LoginDesign1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\intent.xml",
+        "source": "E:\\project\\LoginDesign1\\app\\src\\main\\res\\layout\\intent.xml"
+    },
+    {
+        "merged": "E:\\project\\LoginDesign1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\update.xml",
+        "source": "E:\\project\\LoginDesign1\\app\\src\\main\\res\\layout\\update.xml"
+    },
+    {
+        "merged": "E:\\project\\LoginDesign1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "E:\\project\\LoginDesign1\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\project\\LoginDesign1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "E:\\project\\LoginDesign1\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "E:\\project\\LoginDesign1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\project\\LoginDesign1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\project\\LoginDesign1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
+        "source": "E:\\project\\LoginDesign1\\app\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "E:\\project\\LoginDesign1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\second.xml",
+        "source": "E:\\project\\LoginDesign1\\app\\src\\main\\res\\layout\\second.xml"
+    }
+]
